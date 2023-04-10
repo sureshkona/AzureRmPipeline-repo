@@ -62,7 +62,7 @@
         "family": "B",
         "capacity": 1
       },
-      "kind": "windows",
+      "kind": "linux",
       "properties": {
         "perSiteScaling": false,
         "reserved": true,
